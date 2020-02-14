@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bel David</string>
+    <string name="str_btn_call">Bel David</string>
+    <string name="str_btn_site">Google</string>
+    <string name="str_btn_navigate">Send</string>
+    <string name="str_et_name_hint">Enter a name</string>
+</resources>
